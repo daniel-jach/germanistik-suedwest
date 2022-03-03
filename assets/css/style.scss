@@ -37,10 +37,14 @@ a, a:link {
   text-decoration: none;
 }
 
-a:hover, .copyright > a:hover, a:active {
+a:hover, .copyright > a:hover {
   text-decoration: none;
   color: #EF6306;
   top: -5px;
+}
+
+a:active {
+  color: #EF6306;
 }
 
 .copyright > a  {
