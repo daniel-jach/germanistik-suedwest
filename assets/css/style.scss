@@ -119,9 +119,14 @@ blockquote {
 
 
 @media screen and (max-width: 480px) {
+  
   .bio {
     overflow: visible;
   }
-    
-
+  
+  .nav li a {
+    -webkit-tap-highlight-color: #EF6306;
+    -webkit-tap-highlight-color: transparent; /* for removing the highlight */
+  }
+  
 }
