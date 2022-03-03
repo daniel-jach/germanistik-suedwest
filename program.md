@@ -35,7 +35,7 @@
   </div>
   
   <p class="bio">
-  ... ist seit 2001 Professor für Deutsch als Fremd- und Fachsprache an der Hochschule Konstanz und unter anderem verantwortlicher Redakteur der Zeitschrift *Info DaF*. Seine Arbeitsschwerpunkte liegen in den Bereichen Fachsprachen-Didaktik, Schreiben in der Fremdsprache und Sprachtests. Außerdem erforscht er Möglichkeiten, digitale Textsammlungen für den fachsprachlichen Unterricht und in der Schreibberatung einzusetzen. In seinem Vortrag erläutert er den Einsatz von Textsammlungen am Beispiel einer Unterrichtseinheit für den Wirtschaftsdeutsch-Unterricht.
+  ... ist seit 2001 Professor für Deutsch als Fremd- und Fachsprache an der Hochschule Konstanz und unter anderem verantwortlicher Redakteur der Zeitschrift <i>Info DaF</i>. Seine Arbeitsschwerpunkte liegen in den Bereichen Fachsprachen-Didaktik, Schreiben in der Fremdsprache und Sprachtests. Außerdem erforscht er Möglichkeiten, digitale Textsammlungen für den fachsprachlichen Unterricht und in der Schreibberatung einzusetzen. In seinem Vortrag erläutert er den Einsatz von Textsammlungen am Beispiel einer Unterrichtseinheit für den Wirtschaftsdeutsch-Unterricht.
   </p>
 </div>
 
