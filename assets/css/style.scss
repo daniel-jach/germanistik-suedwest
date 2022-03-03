@@ -28,24 +28,28 @@ h2 {
   color: #7E262B;
 }
 
-a {
+a, a:link {
   color: #7E262B;
   font-weight: bold;
+  position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+  text-decoration: none;
 }
 
-a:hover {
+a:hover, .copyright > a:hover, a:active {
   text-decoration: none;
   color: #EF6306;
+  top: -5px;
 }
 
 .copyright > a  {
   color: #E7BB41;
   font-weight: bold;
   text-decoration: none;
-}
-
-.copyright > a:hover {
-  color: #EF6306;
+  position: relative;
+  top: 0;
+  transition: top ease 0.5s;
 }
 
 blockquote {
