@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Herzlich willkommen
 
-You can use the [editor on GitHub](https://github.com/daniel-jach/germanistik-suedwest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> Alles, was man wissen muss, um eine Sprache zu erwerben/erlernen/vermitteln, steckt in der Sprache selbst.<br>(Perkuhn und Belica 2006, 6)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Alles, was unsere Lernenden wissen müssen, steckt also in der Sprache selbst, ... man muss es nur finden! Aber wie? Die moderne Sprachforschung durchsucht dafür mit leistungsstarken Computern riesige digitale Sammlungen authentischer Texte und Audioaufnahmen. Sie findet Wortpaare und Wortfamilien, "befreundete" Wortgruppen, Satz- und sogar Textmuster, die zusammen den realen Sprachgebrauch abbilden. 
 
-### Markdown
+In Germanistik Südwest (GSW) 2022 gehen wir zusammen mit ExpertInnen aus Deutschland und China selbst auf die Suche. In einer Kombination aus online Vorträgen und offline Workshops lernen wir die Methoden der modernen digitalen Sprachforschung kennen und erarbeiten praktische Möglichkeiten, ihre Ressourcen für unsere Sprachlehre zu nutzen. Dabei lohnt ein inspirierender Blick auf die englische Fremdsprachenlehre, die Computer und Textsammlungen schon seit langem erfolgreich im Unterricht einsetzt (Boulton und Vyatkina 2021). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+GSW2022 bringt diesen modernen digitalen Ansatz endlich auch in den Deutsch-als-Fremdsprache-Unterricht und macht uns Lehrkräfte mit den wissenschaftlichen Grundlagen, didaktischen Vorteilen und ganz konkreten Einsatzmöglichkeiten in unserer eigenen Unterrichtspraxis vertraut.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daniel-jach/germanistik-suedwest/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

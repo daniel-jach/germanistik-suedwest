@@ -1,0 +1,20 @@
+docs_list_title: Navigation
+docs:
+
+- title: Home
+  url: index.html
+
+- title: Programm
+  url: program.html
+
+- title: Zeitplan
+  url: time.html
+
+- title: Ortsplan
+  url: place.html
+  
+- title: Kontakt
+  url: contact.html
+  
+- title: Literatur
+  url: references.html
