@@ -19,4 +19,6 @@
 
 09:00-12:00 Uhr -- Workshop 2   
 12:00-13:30 Uhr -- Pause  
-13:30-15:00 Uhr -- Ende
+13:00-14:30 Uhr -- Workshop 3  
+14:30-15:00 Uhr -- Pause  
+15:00-16:00 Uhr -- Ende

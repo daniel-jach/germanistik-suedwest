@@ -53,10 +53,8 @@ In diesem Workshop knüpfen die Teilnehmenden an den Vortrag von Christian Kreke
 
 Christoph Gube (Tianjin), Katja Becker-Sliwa (Shanghai)
 
-
-<!--
 ### Workshop 3
- 
-Beitrag von Klett-Verlag/Foreign Language Teaching and Research Press (FLTRP), online, zugesagt, aber inhaltlich und pragmatisch noch nicht näher bestimmt, erwarte Rückmeldung
 
--->
+Nach zwei fachlichen Workshops zum Thema *Textsammlungen* sorgt der letzte Workshop für inhaltliche Abwechslung. In einem interaktiven online Beitrag lernen die Teilnehmenden das neu bearbeitete Lehrwerk *Netzwerk neu A1* von Klett/FLTRP kennen und üben den Einsatz im Unterricht mit exklusivem Probematerial. Die Teilnehmenden haben außerdem Gelegenheit zum Erfahrungsaustausch mit einer erfahrenen Lehrkraft und Materialentwicklern. 
+
+Referent Name (Taipei), Jennifer Swanda (Stuttgart), Elke Kienzle (Stuttgart)
