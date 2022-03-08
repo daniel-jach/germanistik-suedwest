@@ -57,4 +57,4 @@ Christoph Gube (Tianjin), Katja Becker-Sliwa (Shanghai)
 
 Nach zwei fachlichen Workshops zum Thema *Textsammlungen* sorgt der letzte Workshop für inhaltliche Abwechslung. In einem interaktiven online Beitrag lernen die Teilnehmenden das neu bearbeitete Lehrwerk *Netzwerk neu A1* von Klett/FLTRP kennen und üben den Einsatz im Unterricht mit exklusivem Probematerial. Die Teilnehmenden haben außerdem Gelegenheit zum Erfahrungsaustausch mit einer erfahrenen Lehrkraft und Materialentwicklern. 
 
-Referent Name (Taipei), Jennifer Swanda (Stuttgart), Elke Kienzle (Stuttgart)
+Referent Name (Taipei), Jennifer Swanda (Stuttgart)
