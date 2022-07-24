@@ -10,8 +10,8 @@ docs:
 - title: Zeitplan
   url: time.html
 
-- title: Ortsplan
-  url: place.html
+- title: Anmeldung
+  url: registration.html
   
 - title: Kontakt
   url: contact.html

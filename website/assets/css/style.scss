@@ -84,11 +84,33 @@ blockquote {
   box-shadow: 2px 2px 1px #ccc;
 }
 
+.logo {
+  width: 90%;
+  font-weight: bold;
+}
+
 .underConstruction {
   font-weight: bold;
   text-align: center;
   font-size: 30px;
 }
+
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 48%;
+  padding: 5px;
+}
+
+emph{
+  font-weight: bold;
+  color: #7E262B;
+}
+
+
 
 /* navbar */
 
