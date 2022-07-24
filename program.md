@@ -51,7 +51,6 @@ Sabrina Stock (DAAD, Chongqing), Yang Yaqing (SISU, Chongqing), Daniel Jach (DAA
 
 In diesem Workshop knüpfen die Teilnehmenden an den Vortrag von Christian Krekeler über Fachsprachen-Unterricht an. Sie diskutieren Möglichkeiten für den Einsatz von Textsammlungen in fachsprachlichem Unterricht wie zum Beispiel Wirtschaftsdeutsch, Wissenschaftliches Schreiben oder Deutsch für Techniker und erstellen dann eine eigene fachsprachliche Textsammlung. Die Teilnehmenden erlernen den Umgang mit dem Computerprogramm *AntConc* (Anthony 2022) und erarbeiten Lernaktivitäten für den eigenen Unterricht. Außerdem werden geeignete Prüfungsformen diskutiert und entwickelt. 
 
-<<<<<<< HEAD
 Christoph Gube (DAAD, Tianjin), Daniel Jach (DAAD, Chengdu)
 
 ### Workshop 3
@@ -59,10 +58,9 @@ Christoph Gube (DAAD, Tianjin), Daniel Jach (DAAD, Chengdu)
 Nach zwei fachlichen Workshops zum Thema *Textsammlungen* sorgt der letzte Workshop für inhaltliche Abwechslung. In einem interaktiven online Beitrag lernen die Teilnehmenden das neu bearbeitete Lehrwerk *Netzwerk neu A1* von Klett/FLTRP kennen und üben den Einsatz im Unterricht mit exklusivem Probeimages. Die Teilnehmenden haben außerdem Gelegenheit zum Erfahrungsaustausch mit einer erfahrenen Lehrkraft und imagesentwicklern. 
 
 Bastian Czura (Goethe-Institut, Taipei), Jennifer Swanda (Klett-Verlag, Stuttgart)
-=======
+
 ### Workshop 3
 
 Nach zwei fachlichen Workshops zum Thema *Textsammlungen* sorgt der letzte Workshop für inhaltliche Abwechslung. In einem interaktiven online Beitrag lernen die Teilnehmenden das neu bearbeitete Lehrwerk *Netzwerk neu A1* von Klett/FLTRP kennen und üben den Einsatz im Unterricht mit exklusivem Probematerial. Die Teilnehmenden haben außerdem Gelegenheit zum Erfahrungsaustausch mit einer erfahrenen Lehrkraft und Materialentwicklern. 
 
 Referent Name (Taipei), Jennifer Swanda (Stuttgart)
->>>>>>> 3d0ee1fb0a30c464077aaf56940432ce8ad40160
