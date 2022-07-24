@@ -19,7 +19,13 @@
 
 09:00-12:00 Uhr -- Workshop 2   
 12:00-13:30 Uhr -- Pause  
+<<<<<<< HEAD
 13:30-15:00 Uhr -- Workshop 3  
 15:00-16:00 Uhr -- Ende
 
 Änderungen vorbehalten.
+=======
+13:00-14:30 Uhr -- Workshop 3  
+14:30-15:00 Uhr -- Pause  
+15:00-16:00 Uhr -- Ende
+>>>>>>> 3d0ee1fb0a30c464077aaf56940432ce8ad40160

@@ -1,7 +1,10 @@
 ## Kontakt
 
+<<<<<<< HEAD
 Bei Fragen wenden Sie sich gern an uns.
 
+=======
+>>>>>>> 3d0ee1fb0a30c464077aaf56940432ce8ad40160
 **Inhalt, Aufbau, Workshops etc.**  
 
 Dr. Daniel Jach  
