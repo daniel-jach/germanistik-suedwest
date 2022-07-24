@@ -1,0 +1,156 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.clear-both {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  clear: both;
+}
+
+#header_wrap, #footer_wrap {
+background-color: #7E262B;
+background-image: linear-gradient(#7E262B,#7E262B);
+}
+
+#project_title, #project_tagline, .copyright {
+  color: #E7BB41;
+}
+
+#main_content_wrap {
+  background-color: #FBFCFF;
+  background-image: linear-gradient(#FBFCFF,#FBFCFF);
+  color: #000000;
+}
+
+h2 {
+  color: #7E262B;
+}
+
+a {
+  color: #7E262B;
+  font-weight: bold;
+  position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+  text-decoration: none;
+}
+
+a:hover, .copyright > a:hover {
+  text-decoration: none;
+  color: #EF6306;
+  top: -5px;
+}
+
+a:active {
+  color: #EF6306;
+}
+
+.copyright > a  {
+  color: #E7BB41;
+  font-weight: bold;
+  text-decoration: none;
+  position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
+blockquote {
+  border-left: 4px solid #7E262B;
+  color: #7E262B; 
+  font-weight: bold;
+  font-family: Gentium Basic;
+  width: 75%;
+}
+
+.containerImgBio {
+	width:100%;
+	height:auto;
+	padding:1%;
+}
+
+.bio {
+  overflow: hidden;
+}
+
+.portrait {
+  display: block;
+  width: 150px;
+  float: left;
+  margin-right: 20px;
+  padding: 5px;
+  border-radius: 8px;  
+  box-shadow: 2px 2px 1px #ccc;
+}
+
+.logo {
+  width: 90%;
+  font-weight: bold;
+}
+
+.underConstruction {
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+}
+
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 48%;
+  padding: 5px;
+}
+
+emph{
+  font-weight: bold;
+  color: #7E262B;
+}
+
+
+
+/* navbar */
+
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #7E262B;
+}
+
+.nav li {
+  float: left;
+}
+
+.nav li a {
+  display: block;
+  color: #E7BB41;
+  text-align: center;
+  padding: 10px 10px;
+  background-color: #7E262B;
+  text-decoration: none;
+  font-weight: bold;
+  position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+  text-shadow: 2px 2px 2px black;
+}
+
+.nav li a:hover {
+  text-decoration: none;
+  top: -5px;
+  color: #EF6306;
+}
+
+
+
+@media screen and (max-width: 480px) {
+  
+  .bio {
+    overflow: visible;
+  }
+}
