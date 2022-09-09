@@ -41,7 +41,7 @@ Bitte machen Sie alle Angaben in lateinischen Buchstaben/Pinyin.
   <br>
   <label>
     Ihre Nachricht<br>
-    <textarea cols="50" rows="10" name="Nachricht">Hi! Ich möchte mich für die online Workshops bei GSW2022 anmelden.</textarea>
+    <textarea cols="50" rows="10" name="Nachricht">Hi! Ich möchte mich für die online Workshops bei GSW 2022 anmelden.</textarea>
   </label>
   <br>
     * Pflichtfelder
