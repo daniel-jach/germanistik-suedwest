@@ -10,12 +10,12 @@ Bitte machen Sie alle Angaben in lateinischen Buchstaben/Pinyin.
   action="https://formspree.io/f/mpznqydk"
   method="POST">
   <label>
-    Ihr Name (NACHNAME Vorname)<br>
+    Ihr Name (NACHNAME Vorname)*<br>
     <input type="text" name="Name" required>
   </label>
   <br>
   <label>
-    Ihre E-Mail-Adresse<br>
+    Ihre E-Mail-Adresse*<br>
     <input type="text" name="Email" required>
   </label>
   <br>
@@ -43,6 +43,8 @@ Bitte machen Sie alle Angaben in lateinischen Buchstaben/Pinyin.
     Ihre Nachricht<br>
     <textarea cols="50" rows="10" name="Nachricht">Hi! Ich möchte mich für die online Workshops bei GSW2022 anmelden.</textarea>
   </label>
+  <br>
+    * Pflichtfelder
   <br>
   <br>
   Hiermit melde ich mich verbindlich für die Teilnahme an den online Workshops von GSW 2022 an. Sollte ich wider Erwarten nicht teilnehmen können, sage ich Bescheid, um meinen Platz freizugeben.
