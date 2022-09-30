@@ -54,7 +54,6 @@ Alle Keynotevorträge auf <a href="https://us06web.zoom.us/j/83874709496?pwd=TEx
 
 ## Workshops
 
-
 <div>
 An den Workshops teilnehmen, bitte <a href="/registration.html">hier klicken und anmelden</a>.
 </div>
