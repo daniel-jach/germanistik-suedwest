@@ -4,6 +4,8 @@ Die Keynote-Vorträge sind offen, eine Anmeldung ist nicht nötig. Die Teilnahme
 
 Um an den Workshops teilzunehmen, melden Sie sich bitte hier an. Wenn Sie sich mit WeChat-ID anmelden, werden Sie in eine WeChat-Gruppe mit anderen Teilnehmenden eingeladen.
 
+**Die Teilnahme ist bis 22.10.2022 geöffnet.**
+
 Bitte machen Sie alle Angaben in lateinischen Buchstaben/Pinyin.
 
 <form
