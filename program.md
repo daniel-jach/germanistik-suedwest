@@ -9,7 +9,7 @@ Alle Keynotevorträge auf <a href="https://us06web.zoom.us/j/83874709496?pwd=TEx
 
 <div class="containerImgBio">
 
-  <emph>28.10.2022, 18:00-19:30 Uhr</emph>, 
+  <emph>28.10.2022, 18:00-19:30 Uhr</emph> 
   
   <br>
   
@@ -55,7 +55,7 @@ Alle Keynotevorträge auf <a href="https://us06web.zoom.us/j/83874709496?pwd=TEx
 ## Workshops
 
 <div>
-An den Workshops teilnehmen, bitte <a href="/registration.html">hier klicken und anmelden</a>.
+An den Workshops teilnehmen, bitte <a href="registration.html">hier klicken und anmelden</a>.
 </div>
 
 ### Workshop 1
