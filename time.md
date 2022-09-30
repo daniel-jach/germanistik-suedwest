@@ -9,7 +9,7 @@
 **Samstag, 29.10.2022**
 
 09:00-10:00 Uhr -- Einstieg   
-10:00-11:30 Uhr -- Keynote Li (<a href="https://us06web.zoom.us/j/83874709496?pwd=TExWTm53UkNSUnFBU2lpVzN3NnRPdz09">Zoom-Link</a>, <emph>Meeting ID</emph> 838 7470 9496, <emph>Passcode</emph> 931074)
+10:00-11:30 Uhr -- Keynote Li (<a href="https://us06web.zoom.us/j/83874709496?pwd=TExWTm53UkNSUnFBU2lpVzN3NnRPdz09">Zoom-Link</a>, <emph>Meeting ID</emph> 838 7470 9496, <emph>Passcode</emph> 931074)  
 11:30-13:30 Uhr -- Pause  
 13:30-17:00 Uhr -- Workshop 1    
 17:00-18:00 Uhr -- Pause  
