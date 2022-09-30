@@ -1,8 +1,17 @@
 ## Keynotes
 
+<div>
+Alle Keynotevorträge auf <a href="https://us06web.zoom.us/j/83874709496?pwd=TExWTm53UkNSUnFBU2lpVzN3NnRPdz09">Zoom (hier klicken!)</a> ohne Anmeldung mitverfolgen.<br>
+<emph>Meeting ID</emph> 838 7470 9496, <emph>Passcode</emph> 931074
+</div>
+
 ### Rainer Perkuhn
 
 <div class="containerImgBio">
+
+  <emph>28.10.2022, 18:00-19:30 Uhr</emph>, 
+  
+  <br>
   
   <div>
     <img src='images/img_ids.jpg' class='portrait'>
@@ -16,6 +25,7 @@
 ### Li Yuan
 
 <div class="containerImgBio">
+  <emph>29.10.2022, 10:00-11:30 Uhr</emph><br>
 
   <div>
     <img src='images/img_li.jpg' class='portrait'>
@@ -30,6 +40,9 @@
 
 <div class="containerImgBio">
 
+  <emph>29.10.2022, 18:00-19:30 Uhr</emph><br>
+
+
   <div>
     <img src='images/img_krekeler.jpg' class='portrait'>
   </div>
@@ -40,6 +53,11 @@
 </div>
 
 ## Workshops
+
+
+<div>
+An den Workshops teilnehmen, bitte <a href="/registration.html">hier klicken und anmelden</a>.
+</div>
 
 ### Workshop 1
 
