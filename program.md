@@ -72,12 +72,6 @@ Christoph Gube (DAAD, Tianjin), Daniel Jach (DAAD, Chengdu)
 
 ### Workshop 3
 
-Nach zwei fachlichen Workshops zum Thema *Textsammlungen* sorgt der letzte Workshop für inhaltliche Abwechslung. In einem interaktiven online Beitrag lernen die Teilnehmenden das neu bearbeitete Lehrwerk *Netzwerk neu A1* von Klett/FLTRP kennen und üben den Einsatz im Unterricht mit exklusivem Probeimages. Die Teilnehmenden haben außerdem Gelegenheit zum Erfahrungsaustausch mit einer erfahrenen Lehrkraft und imagesentwicklern. 
-
-Bastian Czura (Goethe-Institut, Taipei), Jennifer Swanda (Klett-Verlag, Stuttgart)
-
-### Workshop 3
-
 Nach zwei fachlichen Workshops zum Thema *Textsammlungen* sorgt der letzte Workshop für inhaltliche Abwechslung. In einem interaktiven online Beitrag lernen die Teilnehmenden das neu bearbeitete Lehrwerk *Netzwerk neu A1* von Klett/FLTRP kennen und üben den Einsatz im Unterricht mit exklusivem Probematerial. Die Teilnehmenden haben außerdem Gelegenheit zum Erfahrungsaustausch mit einer erfahrenen Lehrkraft und Materialentwicklern. 
 
 Bastian Czura (Taipei), Jennifer Swanda (Stuttgart)
