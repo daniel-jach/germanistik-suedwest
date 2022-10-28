@@ -60,13 +60,13 @@ An den Workshops teilnehmen, bitte <a href="registration.html">hier klicken und 
 
 ### Workshop 1
 
-Dieser Workshop schließt an die Vorträge von Rainer Perkuhn und Li Yuan an. Die Teilnehmenden diskutieren die Relevanz der wissenschaftlichen Begriffe für die Sprachlehre und den didaktischen Wert entsprechender Ressourcen. Als ein Beispiel für den praktischen Einsatz von Textsammlungen im Unterricht werden Übungen aus dem Projekt *Incorporating Corpora* (Vyatkina 2020) für die Vermittlung grammatischer Strukturen besprochen. Anschließend erarbeiten die Teilnehmenden eigene Übungen mit einfach nutzbaren online Tools wie dem *DWDS* oder dem *Leipziger Wortschatzportal* (Quasthoff und Richter 2005). 
+Dieser Workshop schließt an die Vorträge von Rainer Perkuhn und Li Yuan an. Die Teilnehmenden diskutieren die Relevanz der wissenschaftlichen Begriffe für die Sprachlehre und den didaktischen Wert entsprechender Ressourcen. Als ein Beispiel für den praktischen Einsatz von Textsammlungen im Unterricht werden Übungen aus dem Projekt *Incorporating Corpora* (Vyatkina 2020) für die Vermittlung grammatischer Strukturen besprochen. Anschließend erarbeiten die Teilnehmenden eigene Übungen mit einfach nutzbaren online Tools wie dem *DWDS*. 
 
 Sabrina Stock (DAAD, Chongqing), Yang Yaqing (SISU, Chongqing), Daniel Jach (DAAD, Chengdu)  
 
 ### Workshop 2
 
-In diesem Workshop knüpfen die Teilnehmenden an den Vortrag von Christian Krekeler über Fachsprachen-Unterricht an. Sie diskutieren Möglichkeiten für den Einsatz von Textsammlungen in fachsprachlichem Unterricht wie zum Beispiel Wirtschaftsdeutsch, Wissenschaftliches Schreiben oder Deutsch für Techniker und erstellen dann eine eigene fachsprachliche Textsammlung. Die Teilnehmenden erlernen den Umgang mit dem Computerprogramm *AntConc* (Anthony 2022) und erarbeiten Lernaktivitäten für den eigenen Unterricht. Außerdem werden geeignete Prüfungsformen diskutiert und entwickelt. 
+In diesem Workshop knüpfen die Teilnehmenden an den Vortrag von Christian Krekeler über Fachsprachen-Unterricht an. Sie diskutieren Möglichkeiten für den Einsatz von Textsammlungen in fachsprachlichem Unterricht wie zum Beispiel Wirtschaftsdeutsch, Wissenschaftliches Schreiben oder Deutsch für Techniker und erstellen dann eine eigene fachsprachliche Textsammlung. Die Teilnehmenden erlernen den fortgeschrittenen Umgang mit dem *DWDS* und erarbeiten kommunikative Lernaktivitäten für den eigenen Unterricht.
 
 Christoph Gube (DAAD, Tianjin), Daniel Jach (DAAD, Chengdu)
 
