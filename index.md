@@ -10,6 +10,7 @@ In Germanistik Südwest (GSW) 2022 machen wir uns zusammen mit ExpertInnen aus D
 
 GSW 2022 ist vollständig online. Die Arbeitssprache ist Deutsch.
 
+Den Flyer mit allen Informationen [hier](material/flyer.pdf) herunterladen.
 
 ##### In Kooperation mit
 
