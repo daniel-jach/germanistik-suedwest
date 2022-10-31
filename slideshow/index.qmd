@@ -1,0 +1,54 @@
+---
+format: 
+  revealjs:
+    theme: night
+    controls: true
+    auto-slide: 5000
+    loop: true
+---
+
+## {background-image="images/gsw_screenshot_1.PNG"}
+## {background-image="images/gsw_screenshot_2.PNG"}
+## {background-image="images/gsw_screenshot_3.PNG"}
+## {background-image="images/gsw_screenshot_4.PNG"}
+## {background-image="images/gsw_screenshot_5.PNG"}
+## {background-image="images/gsw_screenshot_6.PNG"}
+## {background-image="images/gsw_screenshot_7.PNG"}
+## {background-image="images/gsw_screenshot_8.PNG"}
+## {background-image="images/gsw_screenshot_9.PNG"}
+## {background-image="images/gsw_screenshot_10.PNG"}
+## {background-image="images/gsw_screenshot_11.PNG"}
+## {background-image="images/gsw_screenshot_12.PNG"}
+## {background-image="images/gsw_screenshot_13.PNG"}
+## {background-image="images/gsw_screenshot_14.PNG"}
+## {background-image="images/gsw_screenshot_15.PNG"}
+## {background-image="images/gsw_screenshot_16.PNG"}
+## {background-image="images/gsw_screenshot_17.PNG"}
+## {background-image="images/gsw_screenshot_18.PNG"}
+## {background-image="images/gsw_screenshot_19.PNG"}
+## {background-image="images/gsw_screenshot_20.PNG"}
+## {background-image="images/gsw_screenshot_21.PNG"}
+## {background-image="images/gsw_screenshot_22.PNG"}
+## {background-image="images/gsw_screenshot_23.PNG"}
+## {background-image="images/gsw_screenshot_24.PNG"}
+## {background-image="images/gsw_screenshot_25.PNG"}
+## {background-image="images/gsw_screenshot_26.PNG"}
+## {background-image="images/gsw_screenshot_27.PNG"}
+## {background-image="images/gsw_screenshot_28.PNG"}
+## {background-image="images/gsw_screenshot_29.PNG"}
+## {background-image="images/gsw_screenshot_30.PNG"}
+## {background-image="images/gsw_screenshot_31.PNG"}
+## {background-image="images/gsw_screenshot_32.PNG"}
+## {background-image="images/gsw_screenshot_33.PNG"}
+## {background-image="images/gsw_screenshot_34.PNG"}
+## {background-image="images/gsw_screenshot_35.PNG"}
+## {background-image="images/gsw_screenshot_36.PNG"}
+## {background-image="images/gsw_screenshot_37.PNG"}
+## {background-image="images/gsw_screenshot_38.PNG"}
+## {background-image="images/gsw_screenshot_39.PNG"}
+## {background-image="images/gsw_screenshot_40.PNG"}
+## {background-image="images/gsw_screenshot_41.PNG"}
+## {background-image="images/gsw_screenshot_42.PNG"}
+## {background-image="images/gsw_screenshot_43.PNG"}
+## {background-image="images/gsw_screenshot_44.PNG"}
+## {background-image="images/gsw_screenshot_45.PNG"}

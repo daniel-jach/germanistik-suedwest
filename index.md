@@ -2,6 +2,8 @@
 
 > Alles, was man wissen muss, um eine Sprache zu erwerben / erlernen / vermitteln, steckt in der Sprache selbst.<br>(Perkuhn und Belica 2006, 6)
 
+<iframe style="width:100%; height: 400px;" src="slideshow/"></iframe>
+
 Die moderne Sprachforschung ist längst im Computerzeitalter angekommen und hat sich *big linguistic data* verschrieben. In ihren riesigen digitalen Textsammlungen (Korpora) ist alles zu finden, was man wissen muss, um eine Sprache zu erlernen und zu vermitteln. Sie müssen diesen Sprachschatz nur durchsuchen, die Spreu vom Weizen trennen und didaktisch sinnvoll aufbereiten. Dabei lohnt ein inspirierender Blick auf die englische Fremdsprachenlehre, die Computer und Textsammlungen schon seit langem erfolgreich im Unterricht einsetzt (Boulton und Vyatkina 2021). 
 
 In der Lehr- und Lernpraxis von Deutsch als Fremdsprache sind diese zeitgemäßen Methoden dagegen noch immer weitgehend ungenutzt.
