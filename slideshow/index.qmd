@@ -5,6 +5,7 @@ format:
     controls: true
     auto-slide: 5000
     loop: true
+    menu: false
 ---
 
 ## {background-image="images/gsw_screenshot_1.PNG"}
